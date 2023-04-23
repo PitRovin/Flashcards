@@ -1,6 +1,6 @@
-#Flashcards
+# Flashcards
 
-#About
+# About
 Project developed during the Front-End Engineer Path
 
 # To Run
